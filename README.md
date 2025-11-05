@@ -114,7 +114,7 @@ Here’s a preview of the final dashboard:
 |---|---|
 | [Case Study PDF](report/Cyclistic_Bike_Share_Analysis_Case_Study.pdf) | Final polished case study |
 | [Final Report PDF](report/Cyclistic_Final_Report.pdf) | Insights + visuals report |
-| [Power BI Dashboard PDF](report/cyclistics_Bike_Share_Dashboard.pdf) | Exported BI dashboard |
+| [Power BI Dashboard PDF](report/Cyclistic_Bike_Share_Dashboard.pdf) | Exported BI dashboard |
 
 ---
 
