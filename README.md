@@ -67,22 +67,22 @@ Techniques | Data cleaning, Merging, Feature Engineering, Visualization, Storyte
 ---
 ### 📂 Repository Structure
 📦 cyclistic-bike-share-analysis
-┣ 📂 data
-┃ ┣ processed_cyclistics_trip_data.csv
-┃ ┗ raw_data_sample.zip
-┣ 📂 notebooks
-┃ ┗ cyclistic_analysis.ipynb
-┣ 📂 report
-┃ ┣ Cyclistic_Final_Report.pdf
-┃ ┣ Cyclistic_Google_Style_Case_Study.pdf
-┃ ┗ cyclistics_Bike_Share_Dashboard.pdf
-┣ 📂 visuals
-┃ ┣ Cyclistic_Bike_Share_Dashboard.png
-┃ ┣ ride_count_user_type.png
-┃ ┣ avg_ride_length.png
-┃ ┣ rides_by_day.png
-┃ ┗ rides_by_hour.png
-┗ README.md
+📂 data
+- processed_cyclistics_trip_data.csv
+- raw_data_sample.zip
+📂 notebooks
+- cyclistic_analysis.ipynb
+📂 report
+- Cyclistic_Final_Report.pdf
+- Cyclistic_Bike_Share_Analysis_Case_Study.pdf
+- cyclistics_Bike_Share_Dashboard.pdf
+📂 visuals
+- Cyclistic_Bike_Share_Dashboard.png
+- ride_count_user_type.png
+- avg_ride_length.png
+- rides_by_day.png
+- rides_by_hour.png
+README.md
 
 ### 🧭 Recommendations
 
@@ -113,12 +113,12 @@ Here’s a preview of the final dashboard:
 
 | File | Description |
 |---|---|
-| [Google-Style Case Study PDF](report/Cyclistic_Google_Style_Case_Study.pdf) | Final polished case study |
+| [Case Study PDF](report/Cyclistic_Bike_Share_Analysis_Case_Study.pdf) | Final polished case study |
 | [Final Report PDF](report/Cyclistic_Final_Report.pdf) | Structured report with insights & visuals |
 | [Power BI Dashboard PDF](report/cyclistics_Bike_Share_Dashboard.pdf) | Export of Power BI dashboard |
 
 ---
-## 🧪 Quickstart (Run Analysis Yourself)
+### 🧪 Quickstart (Run Analysis Yourself)
 
 1️⃣ Clone repo  
 ```bash
@@ -139,8 +139,6 @@ notebooks/cyclistic_analysis.ipynb
 ```bash
 Copy code
 Power_BI_Dashboard/cyclistics_Bike_Share_Dashboard.pbix
-
----
 
 
 ### 🧑‍💻 Author  
