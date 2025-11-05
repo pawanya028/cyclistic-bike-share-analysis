@@ -137,7 +137,8 @@ Power_BI_Dashboard/cyclistics_Bike_Share_Dashboard.pbix
 ---
 ### 🧑‍💻 Author 
 **Pawan Yadav** 
-|Data Analyst | Python | SQL | Power BI | EDA 
+
+Data Analyst | Python | SQL | Power BI | EDA 
 
 --- 
 ### 📌 Contact & Portfolio
