@@ -78,6 +78,7 @@ Skills | Data cleaning, EDA, visualization, business insights, storytelling |
 ---
 ### 📸 Dashboard Snapshot
 Here’s a preview of the final dashboard:
+!(Visuals/Cyclistics_Bike_Share_Dashboard.png)
 
 ### 🧭 Recommendations
 
