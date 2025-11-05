@@ -76,6 +76,8 @@ Skills | Data cleaning, EDA, visualization, business insights, storytelling |
 - Hour-of-day ride pattern (commute peaks)  
 
 ---
+### 📸 Dashboard Snapshot
+Here’s a preview of the final dashboard:
 
 ### 🧭 Recommendations
 
