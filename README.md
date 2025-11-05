@@ -78,7 +78,7 @@ Skills | Data cleaning, EDA, visualization, business insights, storytelling |
 ---
 ### 📸 Dashboard Snapshot
 Here’s a preview of the final dashboard:
-!(Visuals/Cyclistics_Bike_Share_Dashboard.png)
+![](Visuals/Cyclistics_Bike_Share_Dashboard.png)
 
 ### 🧭 Recommendations
 
@@ -106,7 +106,7 @@ Targeted ads near tourist parks & events | Reach leisure riders where they are |
 - ✅ Cleaned dataset
 - ✅ Exploratory analysis notebook
 - ✅ Visual dashboards (Python + Power BI)
-- ✅ Google-style final case-study PDF
+- ✅ final case-study PDF
 
 ---
 
