@@ -142,8 +142,7 @@ Data Analyst | Python | SQL | Power BI | EDA
 
 --- 
 ### 📌 Contact & Portfolio
-- LinkedIn:
-- Portfolio:
+- LinkedIn: www.linkedin.com/in/pawan-yadav-b59826383
 - Email: Pawanya28@gmail.com
 ---
 This project demonstrates real-world data analytics skills, from data cleaning and EDA to BI dashboarding and business recommendations.
